@@ -15,4 +15,3 @@
 **/*.VC.db
 **/ipch*
 *.suo
-wpcap/libpcap/
